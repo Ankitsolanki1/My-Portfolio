@@ -1,0 +1,34 @@
+//First Color Plattae
+Blue-> Pink->
+#317088 --> #FA8793
+#1D526E --> #E1626E
+#0A3B5A --> #E1626E
+#022E4D --> #E1626E
+    
+
+2nd Color->
+Blue Zodiac --> Chateau Green
+#002043 --> #047636
+#0F3756 --> #3EC986
+#1B4E6A --> #058E44
+#27667D --> #047636
+
+
+
+
+
+
+Fonts
+font-family: 'Space Grotesk', sans-serif;
+Avenir
+Gotham
+Noto  -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+Neuzeit Grotesk
+Futura
+Open Sans -> for navbar
+Proxima Nova
+Lato
+Brandon Grotesque
+Montserrat
